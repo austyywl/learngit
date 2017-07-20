@@ -3,4 +3,5 @@ git is free software
 svn is not good
 mutable
 git tracks changes of files
-create dev branch
+this is master branch
+
