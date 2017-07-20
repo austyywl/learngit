@@ -1,4 +1,3 @@
 class Test{
-
-	system.out.println(" v2 with bug-001");
+	System.out.println("v3 is ok )"
 }
