@@ -6,13 +6,6 @@ git tracks changes of files
 
 this is master branch
 
-create feature1 branch
+conflict 
 
-
-aaaaa master aaaaa
-
-abcd feature1 abcd
-
-
-aaaaaaaaaaaaaaaaaaaaaaaa
-bbbbbbbbbbbbbbbbbbbbbbbbbb
+end 
