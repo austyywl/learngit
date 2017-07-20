@@ -12,6 +12,7 @@ conflict
 
 end  aaadddd
 
+
 changed by tom1
 
 changed dev readme.txt
@@ -19,6 +20,14 @@ changed dev readme.txt
 dev branch added 
 
 added by tom1
+
+
+changed by lucy readme.txt
+
+dev branch added 
+
+added by lucy
+ 
 
 do something 
 
