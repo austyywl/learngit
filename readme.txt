@@ -12,8 +12,14 @@ conflict
 
 end  aaadddd
 
+changed by tom1
+
 changed dev readme.txt
 
 dev branch added 
 
+added by tom1
+
 do something 
+
+
