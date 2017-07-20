@@ -12,8 +12,10 @@ conflict
 
 end  aaadddd
 
-changed dev readme.txt
+changed by lucy readme.txt
 
 dev branch added 
 
+added by lucy
+ 
 do something 
